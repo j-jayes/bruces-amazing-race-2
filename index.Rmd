@@ -18,6 +18,13 @@ output:
       
 ---
 
+class: hide-logo
+background-image: url(pics/vegetables.PNG)
+background-position: center
+background-size: contain
+
+---
+
 class: center, bottom, hide-logo
 background-image: url(bruce-logo.png)
 
@@ -41,54 +48,6 @@ class: center, middle
 ### Take a picture of your team in action to complete the challenge.
 
 ### Solving each riddle reveals the clue to the next one!
-
-
----
-class: hide-logo
-background-image: url(pics/vegetables.PNG)
-background-position: center
-background-size: contain
-
----
-
-```{r, include=F}
-hike <- tibble(
-  
-  lng = c(13.204002, 13.193029, 13.183433),
-  
-  lat = c(55.703697, 55.703937, 55.697898),
-  
-  popup = c("Botanical Gardens", "Lund Cathedral", "Outdoor Gym")
-  
-)
-
-# lund_lomma <- read_csv("international-exchange-week/data/lund_lomma_2.csv")
-
-# lund_lomma <- read_csv("data/lund_lomma_2.csv")
-
-
-# hike_route <- lund_lomma %>% 
-#   as_tibble() %>% 
-#   select(lng = X, lat = Y) %>% 
-#   mutate(popup = "route")
-
-m <- leaflet() %>%
-  addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(
-    lng = hike$lng,
-    lat = hike$lat,
-    popup = hike$popup
-             ) %>% 
-  # addPolylines(lat = hike_route$lat, 
-  #              lng = hike_route$lng) %>% 
-  addProviderTiles(providers$CartoDB.Positron)
-```
-
-
-```{r, echo=FALSE}
-m  # Print the map
-```
-
 
 ---
 
@@ -169,6 +128,10 @@ class: inverse, center, middle
 
 ]
 
+.footnote[
+[1] It's the statue in this picture.
+]
+
 ---
 
 # 5. Going in circles
@@ -184,16 +147,11 @@ class: inverse, center, middle
 # 6. Beer o'clock
 
 .pull-left[
-- That was tiring. Feel like a beer? Buy a beer from Ericsson’s to get your next clue.
-- The clue is with the bartender.
+- That was tiring. Feel like a beer? Enjoy a beer from Ericsson’s Bar
 ]
 
 .pull-right[
 ![Beer Time!](pics/beer.jpg)
-]
-
-.footnote[
-[1] [If you can't get in click here for hint](https://pastebin.com/raw/s3U6PWSC)
 ]
 
 ---
@@ -237,6 +195,58 @@ class: inverse, center, middle
 
 ---
 
+# 1. Smells bad, man!
+
+### Last year it was layered with the shit of a chicken, and a great place for outdoor activities. Your next clue lies on top of a misplaced boulder.
+
+.footnote[
+[1] [Click here for hint](https://pastebin.com/raw/qjXmLkfW)
+]
+
+---
+# 2. Choo-choo!
+
+### To get the next clue, tell us, how many braille dots there are on the scale of the map of this place, just outside the entrance.
+
+### Use your answer as the password to get the next clue from the link below. (write it out in letters, not numbers)
+
+.footnote[
+[1] [Click here to put in the password](https://pastebin.com/F3nkA3b9)
+]
+
+---
+# 3. How far now?
+
+### When you get here, walk up the path and look around for a signpost with distances to cities around the world.
+
+### How far is it to Durban, South Africa? (write it in numbers e.g. "1000" in the link below)
+
+.footnote[
+[1] [Click here to put in the password](https://pastebin.com/dgSKQ1zM)
+]
+
+---
+# 4. Floating apples?
+
+### With clothes of green, a bark of a dog, and I am a relative of [Newton](https://www.atlasobscura.com/places/newtons-apple-tree), but tended to float before he came around.
+
+### Find the plaque below this object - it is inscribed with "Beaty of [clue]". Type it in to the link below for the next clue.
+
+.footnote[
+[1] [Click here to put in the password](https://pastebin.com/wd3unLH4)
+]
+
+---
+# 5. How are we going to get there?
+
+### Your next clue lies on the island in this body of water!
+
+---
+# 6. Lund's most prized possession!
+
+### An ancient Greek city-state and an epic line in the film [300](https://en.wikipedia.org/wiki/300_(film), where does lund's most prized possession stay?
+
+---
 
 class: center, middle
 

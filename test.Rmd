@@ -1,0 +1,52 @@
+---
+title: "test"
+author: "JJayes"
+date: "02/05/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+---
+
+```{r, include=F}
+hike <- tibble(
+  
+  lng = c(13.204002, 13.193029, 13.183433),
+  
+  lat = c(55.703697, 55.703937, 55.697898),
+  
+  popup = c("Botanical Gardens", "Lund Cathedral", "Outdoor Gym")
+  
+)
+
+# lund_lomma <- read_csv("international-exchange-week/data/lund_lomma_2.csv")
+
+# lund_lomma <- read_csv("data/lund_lomma_2.csv")
+
+
+# hike_route <- lund_lomma %>% 
+#   as_tibble() %>% 
+#   select(lng = X, lat = Y) %>% 
+#   mutate(popup = "route")
+
+m <- leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(
+    lng = hike$lng,
+    lat = hike$lat,
+    popup = hike$popup
+             ) %>% 
+  # addPolylines(lat = hike_route$lat, 
+  #              lng = hike_route$lng) %>% 
+  addProviderTiles(providers$CartoDB.Positron)
+```
+
+
+```{r, echo=FALSE}
+m  # Print the map
+```
+
