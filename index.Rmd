@@ -174,7 +174,7 @@ class: inverse, center, middle
 
 .pull-left[
 
-- Time for a proper workout. Get a picture with everyone exercising at the outdoor gym.
+- Time for a proper workout. Get a picture with everyone exercising at the outdoor gym, next to Stadsparken.
 
 ]
 
@@ -210,7 +210,7 @@ class: inverse, center, middle
 
 ### Use your answer as the password to get the next clue from the link below. (write it out in letters, not numbers)
 
-[This is a map scale](https://en.wikipedia.org/wiki/Scale_(map))
+[This is a map scale](https://futuremaps.com/blogs/news/map-scale)
 
 .footnote[
 [1] [Click here to put in the answer](https://pastebin.com/F3nkA3b9)
@@ -235,7 +235,7 @@ class: inverse, center, middle
 
 ### Just inside, find a stone bearing the year of A.C Bergelin's passing (this is the password, in numbers). 
 
-### Hint: on the same stone are the names Marie Pettersson and Sven Andersson. 
+[A helpful hint](https://pastebin.com/raw/R8aijJWF)
 
 .footnote[
 [1] [Click here to put in the date](https://pastebin.com/hY7Ptey9)
@@ -257,7 +257,7 @@ class: inverse, center, middle
 
 ### Find the name of Bruce's favorite poem, written on a piece of paper at this spot!
 
-Hint: It's characters include the Bandersnatch and Jubjub Bird.
+[A helpful hint](https://pastebin.com/raw/PPLTajWW)
 
 .footnote[
 [1] [Click here to put in the name of the poem](https://pastebin.com/rhtE3qPm)
