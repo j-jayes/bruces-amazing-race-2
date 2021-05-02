@@ -1,5 +1,5 @@
 ---
-title: "Index"
+title: "Bruce's Amazing Race"
 subtitle: "⚔<br/>May the Best Vegetable Win!"
 author: ""
 institute: ""
@@ -36,7 +36,7 @@ class: center, middle
 
 # Amazing Race Format
 
-### There are five challenges and a few riddles:
+### There are eight challenges and six riddles:
 
 ### Take a picture of your team in action to complete the challenge.
 
@@ -94,11 +94,13 @@ m  # Print the map
 
 class: inverse, center, middle
 
-# Let's get Started
+# Let's get Started with the challenges!
+
+## You can complete the challenges in any order.
 
 ---
 
-# Rule Breakers
+# 1. Rule Breakers
 
 .pull-left[
 
@@ -117,7 +119,28 @@ class: inverse, center, middle
 ]
 
 ---
-# Catch of the Day
+
+# 2. Now she want a photo, you already know, though
+
+.pull-left[
+
+- Take a picture with a police officer or guard in Lund.
+
+]
+
+.pull-right[
+
+![Photo Op](pics/police.jpg)
+
+]
+
+.footnote[
+[1] This can be done at any time today.
+]
+
+---
+
+# 3. Catch of the Day
 
 .pull-left[
 
@@ -132,11 +155,11 @@ class: inverse, center, middle
 
 ---
 
-# Impersonation Stations
+# 4. Impersonation Stations
 
 .pull-left[
 
--	Recreate an impersonation of the statue outside the cathedral 
+-	Recreate an impersonation of the statue of the Virgin Mary outside the cathedral.
 
 ]
 
@@ -148,7 +171,7 @@ class: inverse, center, middle
 
 ---
 
-# Going in circles
+# 5. Going in circles
 
 .pull-left[
 -	Complete the labyrinth outside the cathedral.
@@ -158,7 +181,7 @@ class: inverse, center, middle
 ![Impersonation](pics/labyrinth.jpg)
 ]
 ---
-# Beer o'clock
+# 6. Beer o'clock
 
 .pull-left[
 - That was tiring. Feel like a beer? Buy a beer from Ericsson’s to get your next clue.
@@ -174,22 +197,11 @@ class: inverse, center, middle
 ]
 
 ---
-class: inverse, center, middle
-
-# Photo finish!
-
-## To complete the next challenges you solve the riddle, go to where the solution takes you and snap a pic. 
-## You'll find your next clue in the near vacinity.
-
----
-
----
-# I have a hunger!
+# 7. I have a hunger!
 
 .pull-left[
 
-- Buy a falafel from Clemens Falafel
-- The next clue is with the falafel man.
+- Enjoy a falafel for some energy.
 
 ]
 
@@ -199,11 +211,33 @@ class: inverse, center, middle
 
 ]
 
-.footnote[
-[1] [If you are lost click for a hint](https://pastebin.com/raw/WK9rGKgQ)
+---
+# 8. Work it out
+
+.pull-left[
+
+- Time for a proper workout. Get a picture with everyone exercising at the outdoor gym.
+
+]
+
+.pull-right[
+
+![](pics/gym.jpg)
+
 ]
 
 ---
+
+class: inverse, center, middle
+
+# Riddle me this!
+
+## To complete the next challenges you solve the riddle, go to where the solution takes you and snap a pic. 
+## You'll find the password for the next clue at the spot.
+
+---
+
+
 class: center, middle
 
 # Thanks for a fun adventure!
