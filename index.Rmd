@@ -255,7 +255,9 @@ class: inverse, center, middle
 ---
 # 5. Poetic Justice
 
-### Find the name of Bruce's favorite poem, written on a piece of paper at this spot!
+### Find the name of Bruce's favorite poem, written on a piece of paper, taped to a tree at this spot.
+
+### You might need a cheeky dip to see it clearly!
 
 [A helpful hint](https://pastebin.com/raw/PPLTajWW)
 
