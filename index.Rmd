@@ -197,7 +197,7 @@ class: inverse, center, middle
 
 # 1. Smells bad, man!
 
-### Last year it was layered with the shit of a chicken, and a great place for outdoor activities. Your next clue lies on top of a misplaced boulder.
+### Last year it was layered with the shit of a chicken. It is great place for outdoor activities. Your next clue lies on top of a misplaced boulder.
 
 .footnote[
 [1] [Click here for hint](https://pastebin.com/raw/qjXmLkfW)
@@ -210,43 +210,63 @@ class: inverse, center, middle
 
 ### Use your answer as the password to get the next clue from the link below. (write it out in letters, not numbers)
 
+[This is a map scale](https://en.wikipedia.org/wiki/Scale_(map))
+
 .footnote[
-[1] [Click here to put in the password](https://pastebin.com/F3nkA3b9)
+[1] [Click here to put in the answer](https://pastebin.com/F3nkA3b9)
 ]
 
 ---
 # 3. How far now?
 
-### When you get here, walk up the path and look around for a signpost with distances to cities around the world.
+### When you get here, walk up the path to the right of the building and look around for a signpost with distances to cities around the world.
 
 ### How far is it to Durban, South Africa? (write it in numbers e.g. "1000" in the link below)
 
 .footnote[
-[1] [Click here to put in the password](https://pastebin.com/dgSKQ1zM)
+[1] [Click here to put in the distance](https://pastebin.com/dgSKQ1zM)
+]
+
+---
+
+# 4. A grave situation
+
+### As you enter this area from the top, you will see a notice board (with a map of resting places and notices), just past a black metal gate. 
+
+### Just inside, find a stone bearing the year of A.C Bergelin's passing (this is the password, in numbers). 
+
+### Hint: on the same stone are the names Marie Pettersson and Sven Andersson. 
+
+.footnote[
+[1] [Click here to put in the date](https://pastebin.com/hY7Ptey9)
 ]
 
 ---
 # 4. Floating apples?
 
-### With clothes of green, a bark of a dog, and I am a relative of Isaac Newton but tended to float before he came around.
+### Find the plaque below this object - it is inscribed with "Beauty of [password]". Type it in to the link below for the next clue.
 
-### Find the plaque below this object - it is inscribed with "Beaty of [clue]". Type it in to the link below for the next clue.
-
-[Isaac Newton?](https://www.atlasobscura.com/places/newtons-apple-tree)
+[A helpful hint](https://www.atlasobscura.com/places/newtons-apple-tree)
 
 .footnote[
-[1] [Click here to put in the password](https://pastebin.com/wd3unLH4)
+[1] [Click here to put in the word](https://pastebin.com/wd3unLH4)
 ]
 
 ---
-# 5. How are we going to get there?
+# 5. Poetic Justice
 
-### Your next clue lies on the island in this body of water!
+### Find the name of Bruce's favorite poem, written on a piece of paper at this spot!
+
+Hint: It's characters include the Bandersnatch and Jubjub Bird.
+
+.footnote[
+[1] [Click here to put in the name of the poem](https://pastebin.com/rhtE3qPm)
+]
 
 ---
 # 6. Lund's most prized possession!
 
-### An ancient Greek city-state and an epic line in the film [300](https://en.wikipedia.org/wiki/300_(film), where does lund's most prized possession stay?
+### Use the name of Bruce's favorite poem to find your final clue!
 
 ---
 
